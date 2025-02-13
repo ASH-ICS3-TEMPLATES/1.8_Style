@@ -1,4 +1,4 @@
-###### ICS3 - Mr. Brash 🐿️
+###### ICS3 - Mr. J 🐠
 
 ### A little update on file paths
 
@@ -131,5 +131,4 @@ p {
 
 <br>
 <br>
-
-🐿️
+🐠
