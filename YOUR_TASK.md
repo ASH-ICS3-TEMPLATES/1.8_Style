@@ -1,4 +1,4 @@
-###### ICS3 - Mr. J 🐠
+###### ICS3 - Mr. J 🐧
 
 # Your Task: 1.8 - Style
 
@@ -6,4 +6,4 @@
 2. Either in *this* repo, or your [1.5 - HTML Basics](https://www.brash.ca/ics3/1/5) repo, play with some of the basic style options and learn how to use selectors to apply style exactly where you want it.
 
 <br><br>
-🐠
+🐧
