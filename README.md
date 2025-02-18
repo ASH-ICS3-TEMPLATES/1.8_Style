@@ -1,4 +1,4 @@
-###### ICS3 - Mr. J 🐠
+###### ICS3 - Mr. J 🐧
 
 ### A little update on file paths
 
@@ -130,5 +130,4 @@ p {
 ### Learning style commands and options can take *weeks*. I highly recommend you [learn as you go](https://www.w3schools.com/css/).
 
 <br>
-<br>
-🐠
+🐧
